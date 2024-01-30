@@ -9,7 +9,7 @@ This portfolio showcases Yanga Madamombe's skills, experience, projects, and cer
 ## Sections
 
 - **About Me:** Get to know Yanga Madamombe, a computer science student with a burning passion for technology.
-- **Experience:** Explore Yanga's experience in various languages, including HTML, CSS, JavaScript, Java, C, and Python.
+- **Experience:** Explore Yanga's experience in various languages, including HTML, CSS, Java, C, and Python.
 - **Projects:** Browse Yanga's recent projects, each highlighting different skills and technologies.
 - **Certifications:** Discover Yanga's certifications, including Microsoft Azure, Python programming, and IBM Data Engineering.
 - **Contact:** Connect with Yanga through email or LinkedIn to discuss collaborations or opportunities.
